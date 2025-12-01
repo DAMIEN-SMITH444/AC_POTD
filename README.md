@@ -1,1 +1,1 @@
-# MNNIT-POTD
+# AC_POTD
