@@ -5,9 +5,9 @@ int main() {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
     
-    int t;
-    cin>>t; 
-    while (t--) {
+    int tt;
+    cin>>tt; 
+    while (tt--) {
     //    write the code here
     }
     return 0;
